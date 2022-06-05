@@ -7,6 +7,7 @@
 博客记录：
 
 - [Union-Find问题的解决与方案迭代|Algorithms, Part1|第一周](https://www.ironhao.top/posts/union_find/)
+- [Bag, Stack and Queue的构造与运用|Algorithms, Part1|第二周](https://www.ironhao.top/posts/bag_stack_and_queue/)
 
 参考内容：
 
