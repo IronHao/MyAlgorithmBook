@@ -5,7 +5,8 @@
         "istream": "cpp",
         "*.tcc": "c",
         "string": "c",
-        "streambuf": "c"
+        "streambuf": "c",
+        "new": "cpp"
     },
     "code-runner.runInTerminal": true,
     "code-runner.languageIdToFileExtensionMap": {
